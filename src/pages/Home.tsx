@@ -29,7 +29,7 @@ const Home = () => {
       </Carousel>
       <br />
 
-      <h1 align="center">Diseños que atrapan</h1>
+      <h1  style={{ textAlign: "center" }}> Diseños que atrapan</h1>
       <a href="/store" target="_blank">
         <img
           className="d-block w-100"
