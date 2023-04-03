@@ -13,8 +13,7 @@ Realizado con Javascript, Typescript utilizando como framework React y Bootstrap
 - useLocalStorage Hook
 
 ### Descripción del proyecto
-Algunas de estas funcionalidades:
-
+Entre sus funcionalidades cuenta con:
 - Carousel / Slideshow
 - Integración con redes sociales y marketing a traves del footer.
 - Store de productos tech.
