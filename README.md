@@ -14,7 +14,11 @@ El usuario puede comprar productos acumulativamente y/o removerlos en caso de ar
 
 ### Descripción del proyecto
 Algunas de estas funcionalidades:
-- Carrito de compras con posibilidad de incremento y disminución de productos.
-- Vista del carrito en barra lateral que se alternar a través de JavaScript para que aparezca desde el borde derecho de la ventana gráfica
+
+- Carousel / Slideshow
 - Integración con redes sociales y marketing a traves del footer.
-- Formulario controlado de contacto.
+- Store de productos tech.
+- Carrito de compras con posibilidad de incremento y disminución de productos.
+- Vista del carrito en barra lateral que se alternar a través de JavaScript para que aparezca desde el borde derecho de la ventana gráfica.
+- Formulario de contacto con validaciones controlando los datos del usuario/a.
+- Diseño responsive.
