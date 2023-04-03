@@ -2,8 +2,7 @@
 
 
 ### Descripción del proyecto
-Proyecto inicializado con Vite.
-Realizado con Javascript, Typescript utilizando como framework React y Bootstrap.
+Proyecto inicializado con Vite y realizado con Javascript, Typescript utilizando como framework React y Bootstrap.
 🔗Deploy: https://shopping-cart-react-ts-six.vercel.app/
 
 - Routing
