@@ -1,6 +1,6 @@
-import { useState } from "react";
 
-const About = () => {
+
+const Contact = () => {
   return (
     <>
       <div className="container">
@@ -16,7 +16,6 @@ const About = () => {
                 type="text"
                 className="form-control"
                 id="validationCustom01"
-                placeholder="Marcos..."
                 pattern="^[^0-9]+$"
                 required
               />
@@ -27,7 +26,6 @@ const About = () => {
                 type="text"
                 className="form-control"
                 id="validationCustom02"
-                placeholder="Galperin..."
                 pattern="^[^0-9]+$"
                 required
               />
@@ -43,31 +41,18 @@ const About = () => {
                   className="form-control"
                   id="validationCustomUsername"
                   aria-describedby="inputGroupPrepend"
-                  placeholder="galperin@gmail.com"
                   required
                 />
               </div>
             </div>
-            <div className="form-group mb-3">
-              <label className="form-label">Ciudad</label>
-              <input
-                type="text"
-                className="form-control"
-                id="validationC ustom03"
-                pattern="^[^0-9]+$"
-                placeholder="Buenos Aires..."
-                required
-              />
-            </div>
 
             <div className="form-group mb-3">
-              <label htmlFor="exampleFormControlTextarea1">
-                Escribe tu mensaje
-              </label>
+              <label className="form-label">Escribe tu mensaje</label>
               <textarea
                 className="form-control"
                 id="exampleFormControlTextarea1"
                 maxLength={150}
+                placeholder="Tu consulta acá..."
               ></textarea>
             </div>
 
@@ -83,4 +68,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Contact;

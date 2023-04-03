@@ -16,7 +16,7 @@ const Navbar = () => {
             Store
           </Nav.Link>
 
-          <Nav.Link to={"/about"} as={NavLink}>
+          <Nav.Link to={"/contact"} as={NavLink}>
             Contacto
           </Nav.Link>
         </Nav>
