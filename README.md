@@ -1,1 +1,4 @@
-# Carrito de compras con React, TypeScript y Bootstrap
+# Carrito de compras
+Realizado con Javascript y Typescript utilizando como framework React y Bootstrap.
+
+###Funcionalidades
