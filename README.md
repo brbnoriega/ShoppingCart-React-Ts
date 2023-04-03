@@ -19,7 +19,7 @@ Algunas de estas funcionalidades:
 - Integración con redes sociales y marketing a traves del footer.
 - Store de productos tech.
 - Carrito de compras con posibilidad de incremento y disminución de productos.
-- Vista del carrito en barra lateral que se alternar a través de JavaScript para que aparezca desde el borde derecho de la ventana gráfica.
+- Vista del carrito en barra lateral que se alternar a través de JavaScript para que aparezca desde el borde derecho de la ventana gráfica. Aqui el usuario/a puede ver la cantidad de productos seleccionados y su correspondiente precio, arrepentirse y remover el producto, visualizar el total final de la compra a realizar. 
 - Local Storage para guardado de productos ya agregados al carritos y no se eliminen al refrescar la web.
 - Formulario de contacto con validaciones controlando los datos del usuario/a.
 - Diseño responsive.
