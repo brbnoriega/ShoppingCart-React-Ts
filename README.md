@@ -1,7 +1,4 @@
 # Carrito de compras
-
-
-### Descripción del proyecto
 Proyecto inicializado con Vite y realizado con Javascript, Typescript utilizando como framework React y Bootstrap.
 - Routing
 - Navbar
