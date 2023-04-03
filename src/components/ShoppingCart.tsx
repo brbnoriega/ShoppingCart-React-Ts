@@ -24,8 +24,8 @@ export function ShoppingCart({ isOpen }: ShoppingCartProp) {
             Total:{" "}
             {formatCurrency(
               cartItems.reduce((total, cartItem) => {
-                const item = storeItems.find((i) => i.id === cartItem.id);
-                return total + (item?.price || 0) * cartItem.quantity;
+                const item = storeItems.find((i) => i.id === cartItem.id); //items por id
+                return total + (item?.price || 0) * cartItem.quantity; //item? para calcular el total final por los items 
               }, 0)
             )}
           </div>
