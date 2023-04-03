@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "AURICULARES G335 CON MICRÓFONO Y CABLE",
+    "price": 28499,
+    "imgUrl": "/imgs/auricularesG335.png"
+},
+{
+    "id": 2,
+    "name": "AURICULARES A10 GEN 2- PC",
+    "price": 21899,
+    "imgUrl": "/imgs/auricularesA10.png"
+},
+{
+    "id": 3,
+    "name": "AURICULARES CON MICRÓFONO LOGITECH G PRO",
+    "price": 65499,
+    "imgUrl": "/imgs/auriculareslol.png"
+},
+{
+    "id": 4,
+    "name": "POP MOUSE INALÁMBRICO",
+    "price": 22590,
+    "imgUrl": "/imgs/mouse1.png"
+},
+{
+    "id": 5,
+    "name": "POP MOUSE INALÁMBRICO",
+    "price": 12899,
+    "imgUrl": "/imgs/mouseinalambrico.png"
+},
+{
+    "id": 6,
+    "name": "POP MOUSE INALÁMBRICO",
+    "price": 9299,
+    "imgUrl": "/imgs/mouse2.png"
+},
+{
+    "id": 7,
+    "name": "AURICULARES INALÁMBRICOS G733",
+    "price": 5999,
+    "imgUrl": "/imgs/auricularesG733.png"
+},
+{
+    "id": 8,
+    "name": "TECLADO MECÁNICO LOGITECH G PRO",
+    "price": 39999,
+    "imgUrl": "/imgs/tecladomecanico2.png"
+},
+{
+    "id": 9,
+    "name": "MOUSEPAD DE GAMING G840",
+    "price": 12149,
+    "imgUrl": "/imgs/lolpad.png"
+},
+{
+    "id": 10,
+    "name": "MICRÓFONO BLUE YETI NANO",
+    "price": 29899,
+    "imgUrl": "/imgs/micro.png"
+},
+{
+    "id": 11,
+    "name": "MICRÓFONO BLUE YETICASTER",
+    "price": 41795,
+    "imgUrl": "/imgs/micro2.png"
+},
+{
+    "id": 12,
+    "name": "MOUSE TRACKBALL ERGO M575",
+    "price": 24499,
+    "imgUrl": "/imgs/mouseergo2.png"
+}
+]
