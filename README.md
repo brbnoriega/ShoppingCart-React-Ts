@@ -3,14 +3,14 @@
 
 ### Descripción del proyecto
 Proyecto inicializado con Vite y realizado con Javascript, Typescript utilizando como framework React y Bootstrap.
-🔗Deploy: https://shopping-cart-react-ts-six.vercel.app/
-
 - Routing
 - Navbar
 - Store Page
 - Shopping Cart Context
 - Shopping Cart Component
 - useLocalStorage Hook
+
+🔗Deploy: https://shopping-cart-react-ts-six.vercel.app/
 
 ### Descripción del proyecto
 Entre sus funcionalidades cuenta con:
