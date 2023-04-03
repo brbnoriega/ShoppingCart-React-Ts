@@ -30,13 +30,13 @@ const Home = () => {
       <br />
 
       <h1  style={{ textAlign: "center" }}> Diseños que atrapan</h1>
-      <a href="/store" target="_blank">
+     
         <img
           className="d-block w-100"
           src="https://media.flixcar.com/f360cdn/Logitech-115999116-71YcoLF0OYL._AC_SL1500_.jpg"
           alt="https://www.logitechstore.com.ar/pop-mouse-inalambrico-con-emojis-personalizables-/p?skuId=344"
         />
-      </a>
+    
       <div className="vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--banner-second pb0">
         <a
           href="https://www.logitechstore.com.ar/lift"
