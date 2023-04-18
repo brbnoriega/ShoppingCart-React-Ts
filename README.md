@@ -7,7 +7,8 @@ Proyecto inicializado con Vite y realizado con Javascript, Typescript utilizando
 - Shopping Cart Component
 - useLocalStorage Hook
 
-🔗Deploy: https://shopping-cart-react-ts-six.vercel.app/
+## Deploy on Vercel
+https://shopping-cart-react-ts-six.vercel.app/
 
 ### Descripción del proyecto
 Entre sus funcionalidades cuenta con:
