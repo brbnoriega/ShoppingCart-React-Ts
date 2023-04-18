@@ -18,5 +18,5 @@ Entre sus funcionalidades cuenta con:
 - Formulario de contacto con validaciones controlando los datos del usuario/a
 - Diseño responsive web y mobile
 
-## Deploy on Vercel
+## Deploy con Vercel
 https://shopping-cart-react-ts-six.vercel.app/
